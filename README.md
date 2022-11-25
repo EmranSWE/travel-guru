@@ -1,70 +1,98 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title: Travel Guru
+Travel Guru is a react js project. Includes firebase authentication.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Demo
+Travel Guru:-
+[Live Demo](https://travel-guru-d412d.web.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technology Stack
+* HTML5
+* CSS3
+* React-Bootstrap
+* JavaScript
+* React
+* React Router
+* Firebase
 
-### `npm run build`
+## Feature of Travel Guru
+What User can Do:
+- User can different travel location of bangladesh
+- User need to be logged in to Booking
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Documentation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Documentation](https://github.com/EmranSWE/travel-guru/blob/main/README.md)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots for :
+#### Desktop / Laptop
 
-### `npm run eject`
+- Home
+![App Screenshot](https://i.ibb.co/jgYvVBg/screencapture-travel-guru-d412d-web-app-2022-11-25-20-03-09.png)
+- Login / Signup
+![App Screenshot](https://i.ibb.co/5RNg9KF/screencapture-travel-guru-d412d-web-app-login-2022-11-25-20-03-58-1.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
+- First, Download Or Clone the repository
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  cd `repository`
+  npm install 
+  npm run start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Deployment
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To deploy this project run
 
-## Learn More
+```bash
+  npm run deploy
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Support
 
-### Code Splitting
+For support, email me mdemran.swe@gmail.com or visite my  [Website](https://emran-portfolio.web.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Feedback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you have any feedback, please reach out me to
+mdemran.swe@gmail.com
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emran-portfolio.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emran2k18/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmranSwe)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributing
 
-### Deployment
+Contributions are always welcome!
+For major changes, please open an issue first to discuss what you would like to change.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Please make sure to update tests as appropriate.
+See `contributing.md` for ways to get started follow me on github.
 
-### `npm run build` fails to minify
+Please adhere to this project's `code of conduct`.
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I would like to express my special thanks of gratitude to different technology relevent blog writter and stack overflow contributor for their able guidance in completing my project.
+
+
+## Authors
+
+- [@Emran](https://github.com/EmranSWE)
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License - see the `LICENSE.md `file for details
+
+
